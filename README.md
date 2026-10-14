@@ -8,8 +8,12 @@ Image of `devops-demo` pushed to DockerHub.
 
 # Part 3 Step 3 - Deploy from Docker Hub
 
+`devops-demo` deployed as a service in Railway.
+
 ![Railway service](assets/images/railway-service.jpg)
 
 # Part 3 Step 6 - Test Your Application
+
+Tested the `devops-demo` app using `curl`
 
 ![Testing the app using curl](assets/images/railway-devops-demo.jpg)
